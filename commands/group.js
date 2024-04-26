@@ -91,7 +91,7 @@ cmd({
         citel.reply(`*Check your Pm ${tlang().greet}*`);
         await Void.sendMessage(`${citel.sender}`, {
             image: log0,
-            caption: `*Group Name: blade-Support*\n*Group Link:* https://chat.whatsapp.com/ErxOiX1qQgk9phDJhnUiDQ`,
+            caption: `*Group Name: nezuko-Support*\n*Group Link:* https://chat.whatsapp.com/D8fCfh8kSC0EDRHeMCrIDy`,
         });
 
     }
@@ -997,6 +997,7 @@ cmd({ on: "text" }, async(Void, citel) => {
 ║ *💫Exp*: ${sck1.xp} / ${Levels.xpFor(sck1.level + 1)}
 ║ *📍Role*: *${role}*
 ║ *Enjoy🥳*
+   *nee killadi thanney🌚*
 ╚═*.·:·.✧ ✦ ✧.·:·.*═╝
 `,
             }, {
