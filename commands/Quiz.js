@@ -21,9 +21,9 @@ const quizQuestions = [
     },
 
     {
-        question: "WHO IS THE OWNER OF BLADE-MD?",
-        options: ["A. bladeh4x", "B. Alextv", "C. mike"],
-        correctAnswer: "B"
+        question: "WHO IS THE OWNER OF NEZUKO-MD?",
+        options: ["A. ZENITSU", "B. Alextv", "C. mike"],
+        correctAnswer: "A"
     },
 
     {
