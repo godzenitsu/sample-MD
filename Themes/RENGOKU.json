@@ -1,7 +1,7 @@
 
 {
     "_JSON_": true,
-    "AUTHOR": "SalmanytOfficial",
+    "AUTHOR": "God-Zenitsu",
     "LANGUAGE": "English",
     "LANGCODE": "en",
     "STRINGS": {
@@ -11,7 +11,7 @@
             "UPDATED_LOCAL": "Fresh Updates Installed!"
         },
         "global": {
-            "botName": " 𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 RENGOKU",
+            "botName": " 𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 𝐍𝐞𝐳𝐮𝐤𝐨",
 
             "body": "𝑊ℎ𝑎𝑡𝑠𝑎𝑝𝑝 𝐵𝑜𝑡",
             "greet2" : "AYOO BRO!",
@@ -24,16 +24,16 @@
             "pic7": "https://i.ibb.co/fqYfn9L/maxresdefault.jpg",
              "greet" : "Brother",
            "dotbody" : "Yup.I am here.",
-            "emijii" : "🎍",
+            "emijii" : "🌚",
             "promote": "A new worthy HASHIRA arrived",
             "pmallow": "Hii,This is RENGOKU\n*A BIG Brother of my Nii-Chan.*\nMy Brother is busy right now.\nKindly Leave your Message.\n\n_I will inform him about your message asap......_",
             "pmblock": "❌ Blocked*\n\n You have been blocked for spamming.\n\n _ 𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 RENGOKU_",
-            "pmwarn": "✋Hii* \nPlease don't spam else I'll block you for spamming. You have ${checkPermit.times} warning(s).\n\n * 𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 RENGOKU*",
-            "permited": "Hii ${tname} Sir*\n\nNow You are permitted by my owner to pm now.\n\n 𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 RENGOKU", 
-            "revoked" : "Hii ${tname} Sir\n\nYour pm permit permission has been prevoked now.\n\n 𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 RENGOKU",
+            "pmwarn": "✋Hii* \nPlease don't spam else I'll block you for spamming. You have ${checkPermit.times} warning(s).\n\n * 𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 𝐍𝐞𝐳𝐮𝐤𝐨*",
+            "permited": "Hii ${tname} Sir*\n\nNow You are permitted by my owner to pm now.\n\n 𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 𝐍𝐞𝐳𝐮𝐤𝐨", 
+            "revoked" : "Hii ${tname} Sir\n\nYour pm permit permission has been prevoked now.\n\n 𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 𝐍𝐞𝐳𝐮𝐤𝐨",
             "demote": "You are not Worthy",
             "antlink": "Link Detected.\n*Good Bye Worthless Demon*",
-            "session": "\n*This is your session.sam.json,keep it safe and store it properly*\n_Now Upload This json file in Your Forked Repo_\n Connect your repo to Heroku and Deploy Branch and Bot will run for Always\n\n*𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 RENGOKU*",
+            "session": "\n*This is your session.sam.json,keep it safe and store it properly*\n_Now Upload This json file in Your Forked Repo_\n Connect your repo to Heroku and Deploy Branch and Bot will run for Always\n\n*𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 𝐍𝐞𝐳𝐮𝐤𝐨*",
             "mention": " Please mention any user Bro🥲",
             "title": "RENGOKU",
             "footer": "KYOJIRO-RENGOKU",
