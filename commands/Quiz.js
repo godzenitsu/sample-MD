@@ -1,4 +1,4 @@
-//**Credits Excel Ottuah///
+//**Credits to Zenitsu///
 
 
 const { cmd, getRandomInt } = require('../lib');
