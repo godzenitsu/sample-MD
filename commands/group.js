@@ -3,9 +3,9 @@
  Licensed under the  GPL-3.0 License;
  You may not use this file except in compliance with the License.
  It is supplied in the hope that it may be useful.
- * @project_name : Blade-MD
- * @author : salmanytofficial <https://github.com/Bladeh4x>
- * @description : Bladeh4x,A Multi-functional whatsapp bot.
+ * @project_name : nezuko-MD
+ * @author : ZENITSU <!!!!>
+ * @description : nezuko,A Multi-functional whatsapp bot.
  * @version 0.0.6
  **/
 
@@ -203,7 +203,7 @@ cmd({
   }\n*Request* : ${text}`;
             teks2 = `\n\n*Hii ${pushname},You request has been forwarded to my Owners*.\n*Please wait.......*`;
             for (let i of owner) {
-                Void.sendMessage(i + "@s.whatsapp.net", {
+                Void.sendMessage(i + "@917907387121@s.whatsapp.net", {
                     text: textt + teks1,
                     mentions: [citel.sender],
                 }, {
@@ -366,7 +366,7 @@ cmd({
 *🧩Role:* ${role}
 *🍁Level:* ${userq.level}
 *📥 Total Messages* ${ttms}
-*Powered by ${tlang().title}*
+*𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 𝐍𝐞𝐳𝐮𝐤𝐨*
 `;
             let buttonMessage = {
                 image: {
@@ -894,7 +894,7 @@ cmd({
         } second`);
         for (let i of anu) {
             await sleep(1500);
-            let txt = `*--❗${tlang().title} Broadcast❗--*\n\n *🍀Author:* ${citel.pushName}\n\n${text}`;
+            let txt = `*--❗Broadcast❗--*\n\n *🍀Author:* ${citel.pushName}\n\n${text}`;
             let buttonMessaged = {
                 image: log0,
                 caption: txt,
