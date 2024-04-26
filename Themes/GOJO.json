@@ -1,19 +1,19 @@
 
 {
     "_JSON_": true,
-    "AUTHOR": "SALMAN AHMAD",
+    "AUTHOR": "GOD-ZENITSU",
     "LANGUAGE": "English",
     "LANGCODE": "en",
     "STRINGS": {
         "updater": {
-            "UPDATE": "Your bot is already on latest version Baka!",
+            "UPDATE": "Your bot is already on latest version MOINU!",
             "NEW_UPDATE": "There is a new update available for the bot!\n\n*Changes:*\n",
             "UPDATED_LOCAL": "Fresh Updates Installed!"
         },
         "global": {
-            "botName": " GOJO SATURO ",
+            "botName": " GOJO ",
             "body": " SUKAAMUNAA!! ",
-            "greet2" : "Hey Baka! I'm the strongest",
+            "greet2" : "𝗣𝗼𝘄𝗲𝗿𝗱𝗲𝗱 𝗕𝘆 𝗤𝘂𝗲𝗲𝗻-𝗡𝗲𝘇𝘂𝗸𝗼",
             "pic1": "https://telegra.ph/file/1ee748eead4fe9efadd1e.jpg",
             "pic2": "https://telegra.ph/file/8192328287664bf2caeb7.jpg",
             "pic3": "https://i.ibb.co/7yh3nd6/images.jpg",
@@ -26,17 +26,17 @@
             "emijii" : "🎍",
             "promote": "A new worthy Cursed skill arrived",
             "pmallow": "Hii,This is Gojo\n*The strongest Jujutsu Scocerer.*\nMy Brother is busy right now.\nKindly Leave your Message.\n\n_I will inform him about your message asap......_",
-            "pmblock": "❌ Blocked*\n\n You have been blocked for spamming.\n\n Powered by Xlicon-Md",
-            "pmwarn": "✋Hii* \nPlease don't spam else I'll block you for spamming. You have ${checkPermit.times} warning(s).\n\n *Powered by Xlicon-Md*",
-            "permited": "Hii ${tname} Sir*\n\nNow You are permitted by my owner to pm now.\n\n Powered by Xlicon-Md", 
-            "revoked" : "Hii ${tname} Sir\n\nYour pm permit permission has been prevoked now.\n\n Powered by Xlicon-Md",
+            "pmblock": "❌ Blocked*\n\n You have been blocked for spamming.\n\n Powered by 𝗤𝘂𝗲𝗲𝗻-𝗡𝗲𝘇𝘂𝗸𝗼",
+            "pmwarn": "✋Hii* \nPlease don't spam else I'll block you for spamming. You have ${checkPermit.times} warning(s).\n\n *Powered by nezuko-Md*",
+            "permited": "Hii ${tname} Sir*\n\nNow You are permitted by my owner to pm now.\n\n Powered by 𝗤𝘂𝗲𝗲𝗻-𝗡𝗲𝘇𝘂𝗸𝗼", 
+            "revoked" : "Hii ${tname} Sir\n\nYour pm permit permission has been prevoked now.\n\n Powered by 𝗤𝘂𝗲𝗲𝗻-𝗻𝗲𝘇𝘂𝗸𝗼",
             "demote": "You are not Worthy",
             "antlink": "Link Detected.\n*Good Bye Worthless Demon*",
-            "session": "\n*This is your session.sam.json,keep it safe and store it properly*\n_Now Upload This json file in Your Forked Repo_\n Connect your repo to Heroku and Deploy Branch and Bot will run for Always\n\n*𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 GOJO SATURO*",
-            "mention": " Please mention any user Baka!",
+            "session": "\n*This is your session.sam.json,keep it safe and store it properly*\n_Now Upload This json file in Your Forked Repo_\n Connect your repo to Heroku and Deploy Branch and Bot will run for Always\n\n*𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 QUEEN NEZUKO*",
+            "mention": " Please mention any user Baka!"
             "title": "GOJO SATURO",
             "footer": "Baka! I'm Here!",
-            "by": "Made by: Xlicon Team",
+            "by": "Made by: 𝗚𝗼𝗱-𝘇𝗲𝗻𝗶𝘁𝘀𝘂",
             "chat_desc": "Options Avilable* : 1. mute\n2. unmute\n3. archive\n4. unarchive\n5. read\n6. unread\n7. delete",
             "success": "Success ✓",
             "dot": "Baka!, Why don't you try .help",
