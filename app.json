@@ -1,14 +1,14 @@
 {
-  "name": "BLADE-MD",
+  "name": "NEZUKO-MD",
   "description": "A Whatsapp md bot built in NodeJs to make experience better",
-  "logo": "https://telegra.ph/file/5b8747782b8fb7312bd9d.jpg",
-  "keywords": ["nodejs", "bot", "whatsapp bot", "Zero-Two", "blade Bot", "blade","BLADE-MD","theme bot","multi device","baileys","Alex tv"],
+  "logo": "https://graph.org/file/171c1ceb7bd07b6160e12.jpg",
+  "keywords": ["nodejs", "bot", "whatsapp bot", "oni chaan", "nezuko Bot", "zenitsu","NEZUKO-MD","theme bot","multi device","baileys","godzen"],
   "success_url": "/",
   "stack": "container",
 "env": {
   "OWNER_NAME": {
   "description": "BOT OWNER NAME", 
-      "value": "Alexdavid"
+      "value": "GOD-ZENITSU"
   },
   "ALIVE_MESSAGE": {
     "description": " SET YOUR ALIVE MESSAGE FOR THE BOT",
@@ -33,7 +33,7 @@
     },
    "THUMB_IMAGE": {
     "description": "THUMBNAIL for bot.",
-     "value": "https://telegra.ph/file/5b8747782b8fb7312bd9d.jpg"
+     "value": "https://graph.org/file/171c1ceb7bd07b6160e12.jpg"
     },
     "ANTI_BAD_WORD": {
     "description": "Put words here. If you want it enabled in your bot otherwise leave it blank",
@@ -73,9 +73,9 @@
        "value": "put owner number"
  },	  
    "SESSION_ID": {
-    "description": "DONT CUT BLADE-MD;;; WORD PUT YOURE SESSION ID HERE.",
+    "description": ";;; WORD PUT YOURE SESSION ID HERE.",
     "required" :true,
-    "value": "BLADE-MD;;;"
+    "value": "PUT UR ID;;;"
   },
     "OPENAI_API_KEY": {
     "description": "Please put your OPENAI api key here.Get it from beta.openai.com(optional if u don't wan't then don't put it ",
@@ -87,8 +87,8 @@
     "value": "mongodb+srv://Maher:Zubair@sigma-male.ggwx4gc.mongodb.net/?retryWrites=true&w=majority"
   },
     "THEME": {
-    "description": "Put the theme name you want to use. Avilable themes are GOJO,blade-md,NEZUKO,LUFFY,GOKU and many more..",
-     "value": "blade-md"
+    "description": "Put the theme name you want to use. Avilable themes are GOJO,NEZUKO,ETC..",
+     "value": "NEZUKO"
   },
     "WORKTYPE": {
   "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.",
@@ -101,11 +101,11 @@
   },
   "PACK_AUTHOR": {
     "description": "PUT STICKER AUTHER NAME",
-    "value": "ALEXTV:"
+    "value": "ZENITSU:"
   },
   "PACK_NAME": {
     "description": "PUT STICKER PACK NAME",
-    "value": "BLADE-MD"
+    "value": "NEZUKO-MD"
   },
   "heroku": {
     "description": "Weather it is on heroku or not", 
