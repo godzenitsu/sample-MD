@@ -1,15 +1,15 @@
 {
-  "name": "BLADE-MD",
+  "name": "NEZUKO-MD",
   "version": "0.0.7",
-  "description": "Multi device whatsapp bot by Blade.",
+  "description": "Multi device whatsapp bot by Zenitsu.",
   "main": "lib/client.js",
   "type": "commonjs",
   "license": "GPL-3.0",
   "scripts": {
-    "start": "pm2 start lib/client.js --deep-monitoring --attach --name BLADE",
+    "start": "pm2 start lib/client.js --deep-monitoring --attach --name NEZUKO",
     "stop": "pm2 stop blade"
   },
-  "author": "Alextv",
+  "author": "ZENITSU",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
     "@hapi/boom": "^9.1.4",
