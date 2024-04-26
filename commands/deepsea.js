@@ -7,16 +7,16 @@
  Licensed under the  GPL-3.0 License;                                                      
  You may not use this file except in compliance with the License.    
  It is supplied in the hope that it may be useful                                     
- * @project_name : BLADE-MD                                                                    
- * @author : naveeddogar <https://github.com/bladeh4x>   
- * @description : BLADE-MD ,A Multi-functional whatsapp bot.       
+ * @project_name : NEZUKO-MD                                                                    
+ * @author : GODZENITSU>   
+ * @description : NEZUKO-MD ,A Multi-functional whatsapp bot.       
  * @version 1.0.1                                                                                             
  ========================================================
  **/
 
  const { tlang,cmd,Config } = require('../lib')
  const maker = require('mumaker')
- let cap = `*_GENERATE BY BLADE-MD_*`
+ let cap = `*_GENERATE BY NEZUKO-MD_*`
      //---------------------------------------------------------------------------
  cmd({ pattern: "deepsea", category: "textpro", desc: "Some text to image feature with various styles." }, async(Void, citel, text) => {
          if (!text) return citel.reply('_Need text._')
